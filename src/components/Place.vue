@@ -11,7 +11,3 @@
     props: ['location'],
   }
 </script>
-
-<style lang="scss" scoped>
-
-</style>
