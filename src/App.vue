@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import Place from './components/Place.vue'
+import Place from '@/components/Place.vue'
 
 export default {
   name: 'App',
